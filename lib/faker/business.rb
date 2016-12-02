@@ -9,6 +9,10 @@ module Faker
         fetch('business.credit_card_numbers')
       end
 
+      def iban
+        fetch('business.iban')
+      end
+
       def credit_card_expiry_date
         ::Date.today + (365 * (rand(4) + 1))
       end

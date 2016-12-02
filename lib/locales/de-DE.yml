@@ -1,0 +1,7 @@
+de-DE:
+  faker:
+    address:
+      postcode: ['#####']
+
+    business:
+      iban: [DE68367230046906934589]

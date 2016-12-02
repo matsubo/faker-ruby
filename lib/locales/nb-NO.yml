@@ -23,6 +23,9 @@ nb-NO:
         - "#{street_name} #{building_number}"
       default_country: [Norge]
 
+    business:
+      iban: [NO7162736090272]
+
     company:
       suffix: ["Gruppen", "AS", "ASA", "BA", "RFH", "og Sønner"]
       name:
